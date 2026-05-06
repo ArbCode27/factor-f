@@ -14,7 +14,7 @@ type ShinyLabelProps = {
 
 export const HeroGlitchTitle = () => {
   return (
-    <h1 className="text-left text-[clamp(4.8rem,19vw,10rem)] font-black uppercase leading-[0.72]  text-[#14110d]">
+    <h1 className="text-left text-[clamp(3.8rem,10vw,10rem)] font-black uppercase leading-[0.72]  text-[#14110d]">
       FACTOR F
     </h1>
   );
